@@ -837,10 +837,20 @@ export const designProcess = [
 /* ------------------------------------------------------------------ */
 export const experience = [
   {
+    company: 'The Game Storm Studios Pvt (Ltd.)',
+    role: 'UI/UX Designer',
+    type: 'Internship — CMIT IP',
+    period: 'Jan 2026 – Jun 2026',
+    description:
+      'Designed and prototyped user-friendly games and mobile interfaces in Figma and Unity. Tested many games, found bugs and glitches, and reported them to developers to improve user experience. Collaborated with developers on responsive layouts and design consistency.',
+    tags: ['Figma', 'Unity', 'Game UI/UX', 'Gameplay Testing', 'Bug Reporting'],
+    icon: 'Gamepad2',
+  },
+  {
     company: 'Rhombix Technologies',
     role: 'UI/UX Designer',
     type: 'Remote Internship',
-    period: '',
+    period: 'Nov 2025 – Jan 2026',
     description:
       'Worked on UI/UX design projects, creating modern interfaces and user-focused digital experiences using design tools such as Figma.',
     tags: ['Figma', 'UI Design', 'UX Design', 'Remote'],
@@ -850,7 +860,7 @@ export const experience = [
     company: 'Ghani Group of Companies / Ghani Glass Limited',
     role: 'IT Intern',
     type: 'Internship',
-    period: '',
+    period: 'Aug 2025 – Oct 2025',
     description:
       'Worked with the IT team and gained practical experience with Oracle-based systems, technical tasks, teamwork and organizational workflows.',
     tags: ['Oracle Systems', 'IT Operations', 'Teamwork'],
