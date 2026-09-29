@@ -15,7 +15,7 @@
 /*  PROFILE                                                           */
 /* ------------------------------------------------------------------ */
 export const profile = {
-  name: 'Farhan Tayyub',
+  name: 'Farhan Tayyab',
   firstName: 'Farhan',
   initials: 'FT',
   roles: ['UI/UX Designer', 'Gameplay Tester', 'App Tester'],
@@ -37,7 +37,7 @@ export const profile = {
 /* ------------------------------------------------------------------ */
 export const socials = {
   email: 'farhantayyub123@gmail.com',
-  linkedin: '', // e.g. 'https://www.linkedin.com/in/your-handle'
+  linkedin: 'https://www.linkedin.com/in/farhantayyab1209',
   github: 'https://github.com/Farhantayyab2368',
   behance: '', // e.g. 'https://www.behance.net/your-handle'
 };
@@ -47,8 +47,8 @@ export const socials = {
 /*  Put your PDF in /public/cv/ and keep the path below in sync.      */
 /* ------------------------------------------------------------------ */
 export const cv = {
-  path: '/cv/Farhan-Tayyub-CV.pdf',
-  fileName: 'Farhan-Tayyub-CV.pdf',
+  path: '/cv/Farhan-Tayyab-CV.pdf',
+  fileName: 'Farhan-Tayyab-CV.pdf',
   heading: 'View My Resume',
   description: "Explore my professional experience, skills, UI/UX work and testing knowledge.",
 };
@@ -884,7 +884,7 @@ export const services = [
 /*  SEO (index.html holds the static tags; keep them in sync)         */
 /* ------------------------------------------------------------------ */
 export const seo = {
-  title: 'Farhan Tayyub | UI/UX Designer | Gameplay Tester | App Tester',
+  title: 'Farhan Tayyab | UI/UX Designer | Gameplay Tester | App Tester',
   description:
-    'Portfolio of Farhan Tayyub — UI/UX Designer, Gameplay Tester and App Tester focused on creating user-friendly digital experiences and identifying usability, functional and gameplay issues.',
+    'Portfolio of Farhan Tayyab — UI/UX Designer, Gameplay Tester and App Tester focused on creating user-friendly digital experiences and identifying usability, functional and gameplay issues.',
 };

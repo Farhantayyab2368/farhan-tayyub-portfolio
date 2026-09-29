@@ -1,4 +1,4 @@
-# Farhan Tayyub — Portfolio
+# Farhan Tayyab — Portfolio
 
 UI/UX Designer · Gameplay Tester · App Tester
 
@@ -53,7 +53,7 @@ export const socials = {
 ```
 
 ### Replacing the CV
-1. Copy your PDF to `public/cv/Farhan-Tayyub-CV.pdf`.
+1. Copy your PDF to `public/cv/Farhan-Tayyab-CV.pdf`.
 2. If you use a different file name, update `cv.path` and `cv.fileName` in the config.
 
 Until the file exists, the "Download CV" buttons show a friendly message instead of a broken download.
