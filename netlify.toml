@@ -1,0 +1,7 @@
+# Netlify: build the Vite app and publish the generated /dist folder
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
